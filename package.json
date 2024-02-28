@@ -1,0 +1,21 @@
+{
+  "name": "patreon-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pu1s3",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^5.3.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.4",
+    "ms": "^2.1.3"
+  }
+}
